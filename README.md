@@ -6,6 +6,8 @@
 **Status:** Shared openly as a working draft. In progress — a starting point, not a finished idea.
 **Date started:** May 2026
 
+Companion document: https://github.com/JaronKBragg7337/memory-as-spatial-arrangement — applies this emergence principle directly (see its Section 2b).
+
 -----
 
 ## A note before the principle
